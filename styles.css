@@ -1,0 +1,22 @@
+body{
+  background-color: black;
+  color: white;
+}
+p{
+  font-family: "courier new", monospace;
+  margin-top: 50px;
+
+
+}
+h1{
+  font-family: "courier new", monospace;
+}
+a{
+  font-family: "courier new", monospace;
+  color: white;
+}
+li{
+  font-family: "courier new", monospace;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
