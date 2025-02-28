@@ -1,0 +1,1 @@
+Created the github repo after finishing lab1 so i committed everything together, the image used is in the img folder and the styles.css file in the css folder and the index.html file is in the main file.
